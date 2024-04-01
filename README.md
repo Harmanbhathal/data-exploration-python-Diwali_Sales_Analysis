@@ -2,6 +2,5 @@
 Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
 
 
-
-
-https://drive.google.com/file/d/1783cKWMKEdX3CKQ46mCR4rDWYred-tfN/view?usp=drivesdk
+VIDEO LINK:
+https://drive.google.com/file/d/1p174Gr5jakcfPqAP3H_NSBkx1sKQ35DG/view?usp=drivesdk
